@@ -1,0 +1,6 @@
+Illustrative output only — not captured from a real network.
+
+TIME     | PROTOCOL       | SOURCE                                  | DESTINATION                             | PORTS              | SIZE
+12:30:01 | TCP            | 192.168.1.10                            | 93.184.216.34                           | 51520 -> 443       | 74 bytes
+12:30:02 | UDP            | 192.168.1.10                            | 192.168.1.1                             | 53000 -> 53        | 70 bytes
+12:30:03 | ICMP           | 192.168.1.1                             | 192.168.1.10                            | -                  | 98 bytes
